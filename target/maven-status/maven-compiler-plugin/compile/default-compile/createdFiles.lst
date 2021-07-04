@@ -1,0 +1,14 @@
+TestCaseClasses\GetStudyChairTest.class
+utilities\DateUtil.class
+baseClasses\BaseTestClass.class
+utilities\ExtendReportManager.class
+utilities\TestDataProvider.class
+TestCaseClasses\BeingAtHomeTest.class
+baseClasses\PageBaseClass.class
+pageClasses\BookShelvesPage.class
+utilities\ReadExcelData.class
+TestCaseClasses\BookShelvesPageTest.class
+pageClasses\GetStudyChairPage.class
+pageClasses\GiftCardPage.class
+pageClasses\HomePage.class
+TestCaseClasses\GiftCardTest.class
